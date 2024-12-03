@@ -1,0 +1,7 @@
+special methods are dentoted whith the double underscore
+
+__init__
+__str__
+__repr__
+
+and a whole lot more
